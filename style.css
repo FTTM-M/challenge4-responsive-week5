@@ -1,4 +1,23 @@
 .content {
-  padding: 160px 20px;
+  padding: 150px 120px;
+}
+.more-content {
   margin: 30px;
+}
+.content h1 {
+  font-size: 64px;
+  line-height: 80px;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
+.content h3 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.5;
+}
+.content p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
 }
